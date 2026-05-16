@@ -12,7 +12,5 @@
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 
 ### Контакты
-<code>[logo]: http://www.google.com/images/logo.gif
-[google]: http://www.google.com/ "щелкните, чтобы посетить Google.com"
-</code>
+[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/itdoctorstudio)
 
