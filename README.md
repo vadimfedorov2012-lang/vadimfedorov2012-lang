@@ -12,5 +12,5 @@
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 
 ### Контакты
-[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/itdoctorstudio)
+[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/id64191830)
 
